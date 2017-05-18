@@ -403,7 +403,7 @@ section.about-us .about-info p {
 /*-- /About Us --*/
 /*-- Our Services --*/
 section.our-services {
-	background:url(../images/service.jpg) no-repeat;
+	background:url(../images/solar.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
@@ -483,7 +483,7 @@ section.our-info .info-pics .col-lg-2.col-md-2.col-sm-2.info-images {
 /*-- /Our Information --*/
 /*-- Our Gallery --*/
 section.our-gallery {
-	background:url(../images/service.jpg) no-repeat;
+	background:url(../images/solar.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
@@ -590,7 +590,7 @@ section.map iframe.googlemaps {
 /*-- /Google Map --*/
 /*-- Contact Section --*/
 section.our-contacts {
-	background:url(../images/contact.jpg) no-repeat;
+	background:url(../images/solar.jpg) no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
